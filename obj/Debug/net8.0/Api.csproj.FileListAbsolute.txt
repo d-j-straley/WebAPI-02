@@ -31,3 +31,4 @@ C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\02\globo\Api\obj\De
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\02\globo\Api\obj\Debug\net8.0\Api.pdb
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\02\globo\Api\obj\Debug\net8.0\Api.genruntimeconfig.cache
 C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\02\globo\Api\obj\Debug\net8.0\ref\Api.dll
+C:\djs\dev\React\BuildingEndToEndSPAUsingWebAPIandReact\code\02\globo\Api\obj\Debug\net8.0\Api.sourcelink.json
