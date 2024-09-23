@@ -1,0 +1,16 @@
+﻿# Ignore DLL files
+*.dll
+
+# Ignore EXE files
+*.exe
+
+# Ignore PDB files
+*.pdb
+
+# Ignore other common non-source files
+*.obj
+*.log
+*.cache
+*.vs
+bin/
+obj/
